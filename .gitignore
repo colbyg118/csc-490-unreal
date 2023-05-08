@@ -71,8 +71,12 @@ CastleWorld/Saved/Logs/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/*/Intermediate/*
+Plugins/
 
 # Cache files for the editor to use
 DerivedDataCache/*
 CastleWorld/Plugins/OpenAIApi/
+
+# API Script
+script.py
+_pycache_
