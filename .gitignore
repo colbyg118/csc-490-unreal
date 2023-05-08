@@ -77,6 +77,11 @@ Plugins/
 DerivedDataCache/*
 CastleWorld/Plugins/OpenAIApi/
 
+# Various
+Crashes/
+Saved/Config/
+
 # API Script
 script.py
-_pycache_
+script.py.bak
+_pycache_/
