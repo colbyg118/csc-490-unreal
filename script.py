@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = ("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")
+openai.api_key = ("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")
 openai_model = "text-davinci-003"
 
 def generate_response(question):
