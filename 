@@ -1,0 +1,192 @@
+[33mcommit 71c363bcf94249a942ac8512e2cdc1f24700be5a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 216fe5f c4ada8a
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 16:15:54 2023 -0400
+
+    Merge branch 'main' of https://github.com/colbyg118/csc-490-unreal
+
+[33mcommit 216fe5f05d3d812e19686586063c277e079ab9b6[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 16:15:32 2023 -0400
+
+    Update .gitignore
+
+[33mcommit c4ada8a744fe13c41e120f3c5cd30bf76f034f60[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 16:14:18 2023 -0400
+
+    Delete CastleWorld/Saved directory
+
+[33mcommit fff09b812b46b3fa937d21d0d879d5c044001dfe[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 16:13:51 2023 -0400
+
+    Delete __pycache__ directory
+
+[33mcommit 95bc2bf830096c6798312a22c9d41b297f12de7c[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 16:11:32 2023 -0400
+
+    Various changes
+
+[33mcommit b35a1b8eb385ff9e9b3eda19410a36f557b04174[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 16:09:58 2023 -0400
+
+    Update .gitignore
+
+[33mcommit 9522f94cb138aea5488348e154bddcf30249ca31[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 16:07:44 2023 -0400
+
+    Update .gitignore
+
+[33mcommit a01b77444977118ac64f7480131c49adb979c501[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 16:06:23 2023 -0400
+
+    Update .gitignore
+    
+    Additions
+
+[33mcommit f2175c9b8bb35e5a03273e4f327cd41e7abc301c[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon May 8 15:59:30 2023 -0400
+
+    Update .gitignore
+
+[33mcommit 3d132d6e392beaeeb4da708d059b008fcbcc3e7c[m
+Author: Mayur Suresh <mayursuresh2022@gmail.com>
+Date:   Mon May 8 11:52:29 2023 -0400
+
+    Widget Added
+
+[33mcommit 3afbd4e7a5816c90d98bd09ba4d775c84cb992e6[m
+Author: Mayur Suresh <mayursuresh2022@gmail.com>
+Date:   Sun May 7 21:13:46 2023 -0400
+
+    API changes
+
+[33mcommit 1a8274df4bc2319558daaee9aebd46248c8302cb[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Apr 26 14:05:03 2023 -0400
+
+    Update .gitignore
+
+[33mcommit 30f7ab2e51e0144a4cd68f92b997ba707e0f4154[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Apr 26 14:04:22 2023 -0400
+
+    Delete CastleWorld/Plugins directory
+
+[33mcommit ad139a0c32b27d9a879559c5550008186db459d0[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Apr 26 14:03:56 2023 -0400
+
+    Updated .gitignore
+
+[33mcommit 27227cd7db7c327607ceb5c9e4128b524b7c2f0d[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Apr 26 14:00:40 2023 -0400
+
+    added openai plugin
+
+[33mcommit 2ed817e56aa63a38390d29ee273543708d3f4b73[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Apr 26 13:58:33 2023 -0400
+
+    changed gitignore
+
+[33mcommit 88ccf0e45dd2ef4cf4f973e1dbb3083943e39b9f[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Apr 26 13:56:32 2023 -0400
+
+    fixed openai plugin
+
+[33mcommit 8a7bf8c6900afae9a408877f2ec8aac94fbfcd46[m
+Author: Mayur Suresh <mayursuresh2022@gmail.com>
+Date:   Thu Apr 13 15:37:56 2023 -0400
+
+    API implementation
+
+[33mcommit 48b9a2516f5442f29e9c663d92558ebd7a18908c[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Apr 5 22:22:33 2023 -0400
+
+    Create README.md
+
+[33mcommit 4ad801ead87882baecdfcd55ef876cbb51febbc9[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Apr 5 22:18:12 2023 -0400
+
+    Overhauled Unreal Project
+    
+    Created new Unreal Project in version 5.0.3 to accommodate new project objectives. Created a simplistic world to allow for future edits and program development.
+
+[33mcommit 987c532641564b42156a993229414662b5ba82b3[m
+Merge: ec9c5a5 d459e4c
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Mon Mar 6 11:38:55 2023 -0500
+
+    Merge pull request #3 from colbyg118/colby
+    
+    Colby
+
+[33mcommit d459e4c917017584a38cc72918ec739f47f7ca18[m[33m ([m[1;32mcolby[m[33m)[m
+Merge: e0b957a ec9c5a5
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Wed Feb 22 10:47:36 2023 -0500
+
+    Merge branch 'main' into colby
+
+[33mcommit ec9c5a53cdea9947f80673fe28ee7288ed278a4f[m
+Merge: b43da3a 051beb4
+Author: Mayur Suresh <mayursuresh2022@gmail.com>
+Date:   Wed Feb 22 10:43:52 2023 -0500
+
+    Merge pull request #2 from colbyg118/MaySur-patch-1
+    
+    Update .gitignore
+
+[33mcommit 051beb4d67ef9d8c4a4a7a5f670aef303181d256[m[33m ([m[1;32mMaySur-patch-1[m[33m)[m
+Author: Mayur Suresh <mayursuresh2022@gmail.com>
+Date:   Wed Feb 22 10:40:53 2023 -0500
+
+    Update .gitignore
+
+[33mcommit e0b957a7d61d8729b194ed63dd8f02d7e77d3142[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Sun Feb 19 16:59:35 2023 -0500
+
+    major map building
+    
+    Expanded map for upcoming maze placement. W.I.P.
+
+[33mcommit b43da3a9e096c1e9d6522ded491e5364de59d02f[m
+Merge: f9e38a0 aedde1c
+Author: Mayur Suresh <mayursuresh2022@gmail.com>
+Date:   Fri Feb 17 18:10:21 2023 -0500
+
+    Merge pull request #1 from colbyg118/test
+    
+    test
+
+[33mcommit aedde1c57e933757303937fea0ed645a8dff145d[m
+Author: Mayur Suresh <mayursuresh2022@gmail.com>
+Date:   Fri Feb 17 18:10:02 2023 -0500
+
+    test
+
+[33mcommit f9e38a0675f1b2d87bb779a23cc81999d2cebcf9[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Fri Feb 17 16:08:10 2023 -0500
+
+    initial unreal project commit
+    
+    Added entire base unreal project, named MazeWorld, to remote.
+
+[33mcommit 03168b00cd9efa0425e4ebefe02091518bd0b5e9[m
+Author: Colby Gamble <colbygamble@comcast.net>
+Date:   Fri Feb 17 15:10:41 2023 -0500
+
+    Initial commit
