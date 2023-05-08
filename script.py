@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = ("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")
+openai.api_key = ("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")
 openai_model = "text-davinci-003"
 
 def generate_response(question):
@@ -23,7 +23,11 @@ Answer:""".format(question.capitalize())
     return response.choices[0].text
 
 # Example usage
-question = "What is the earth?"
-result = generate_response(question)
-print(question)
-print(result)
+
+def prompt(question):
+    question_str = str(question)  # Convert to string
+    result = generate_response(question_str)
+    answer = result
+    return answer
+
+
