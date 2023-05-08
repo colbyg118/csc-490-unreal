@@ -80,7 +80,7 @@ CastleWorld/Plugins/OpenAIApi/
 # Various
 Crashes/
 Saved/Config/
-webcache*/
+Saved/webcache*/
 
 # API Script
 script.py
