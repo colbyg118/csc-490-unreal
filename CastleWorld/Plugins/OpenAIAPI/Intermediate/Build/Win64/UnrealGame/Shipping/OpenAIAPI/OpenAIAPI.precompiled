@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.OpenAIAPI.cpp.obj",
+		"Module.OpenAIAPI.gen.cpp.obj"
+	]
+}
