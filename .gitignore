@@ -80,5 +80,10 @@ CastleWorld/Plugins/OpenAIApi/
 # API Script
 script.py
 script.py.bak
+libscript.py
+libscript.py.bak
 _pycache_/
 Text.uasset
+unreal/
+unreal-0.1.1.dist-info/
+__pycache__/script.cpython-39.pyc
